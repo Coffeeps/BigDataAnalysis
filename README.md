@@ -12,19 +12,25 @@
 
 ---
 # 1. Data Analysis and Pre-processing
-
+数据分析和数据预处理相关。
+## 1.1 Visualization
+可视化工具的用法，包括：
+- Matplotlib
+- Seaborn
+- Plotly
 
 
 ---
 # 2. Association Data Mining
-
+关联数据挖掘算法的Pipeline。
 
 ---
 # 3. Classification and Regression
-
+常用的分类和回归算法Pipeline。
 
 ---
 # 4. Clustering
+常用的聚类算法总结及代码实现。
 ## 4.1 Distance Metrics
 - [x] 12种常用的距离度量原理及代码实现
 
@@ -35,6 +41,7 @@
 
 ---
 # 5. Anomaly Detection
+异常检测算法实现。
 ## 5.1 One-Class SVM
 
 
@@ -48,7 +55,7 @@
 
 ---
 # 6. Dimention Reduction
-
+降维与度量学习。
 
 ---
 # Competition Kernel
